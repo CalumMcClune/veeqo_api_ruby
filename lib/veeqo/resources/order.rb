@@ -16,6 +16,7 @@ module Veeqo
     property :channel
     property :created_at
     property :created_by
+    property :currency_code
     property :customer
     property :customer_note
     property :customer_viewable_notes
